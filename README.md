@@ -1,13 +1,4 @@
-## Installation
-
-1. Clone repo
-2. run `npm install`
-
-## Usage
-
-1. run `node server.js`
-2. Navigate to `localhost:8080`
-
-## Credit
-
-Modified from Scotch.io's auth tutorial
+![Screenshot (45)](https://user-images.githubusercontent.com/96151200/171902497-4a5b062b-99a9-4837-bd0c-2e16da758169.png) 
+# This project uses HTML, CSS, and JavaScript to enable users the ability to grab ISBN numbers for any book they choose through a book cover API. Once the book cover is sent back to the user they have the option to either favorite the book, or rate it as hated! 
+This is basically a personal library that will allow you to keep track of all the books that you've completed and whether or not you enjoyed them! This project does require express, npm, node, and mongoDB in order to work correctly! 
+Once all are installed, run node server.js and you will recieve a notifcation of what the port number is! Run it in your localhost server and you will be well on your way to rating top books like Stephen King's "It"!
