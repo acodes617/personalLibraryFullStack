@@ -1,0 +1,45 @@
+body{
+padding-top:80px;
+word-wrap:break-word;
+background-image: url(.//img/monstersinc.gif);
+background-size: 130%;
+  }
+img{
+height: 500px;
+width:100%
+  }
+.adder{
+margin-left: 450px;
+  }
+#messages{
+margin-right: 400px;
+float: left;
+  }
+.hidden{
+display: none;
+}
+.general{
+color: beige;
+margin-left: 20px;
+font-size: 30px;
+}
+.liked{
+color: blue;
+margin-left: 20px;
+font-size: 30px;
+}
+.lookUp{
+width: 40%;
+}
+.hated{
+color: rgb(182, 34, 34);
+margin-left: 20px;
+font-size: 30px;
+}
+.link1{
+font-size: 20px;
+margin-left: -130px;
+}
+.header{
+color: white;
+}
